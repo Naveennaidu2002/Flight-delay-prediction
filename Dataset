@@ -1,0 +1,1 @@
+I've added a sample dataset directly in the script, so you don't need an external CSV file. It includes sample flight data with airline codes, flight numbers, airport codes, departure times, weather delays, and delay status
